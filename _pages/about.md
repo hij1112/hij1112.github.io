@@ -28,7 +28,7 @@ My ambition is to develop visionary models that provide assistance to individual
 
 ### Education
 
-- **[Seoul National University](https://en.snu.ac.kr/index.html)**, Seoul, Korea _(Mar. 2018 - present)_
+- **[Seoul National University](https://en.snu.ac.kr/index.html)**, Seoul, Korea _(Mar.2018 - present)_
   - Electrical & Computer Engineering *(G.P.A. 3.92/4.3)*
 - **[Korean Minjok Leadership Academy](http://english.minjok.hs.kr/contents/main.php)**, Gangwon, Korea _(Mar.2015 - Feb.2018)_
   - natural science field(domestic)
@@ -52,7 +52,7 @@ My ambition is to develop visionary models that provide assistance to individual
 ### Awards and Honors
 
 - **Scholarship for excellence**, Seoul National University _(2018 - 2019)_ 
-- **Full Scholarship** Gwanakoe _(2022 - current)_ 
+- **Full Scholarship** [Gwanak Alumni Scholarship Foundation](https://gwanak.snua.or.kr) _(2022 - current)_ 
   
 &nbsp;
 
