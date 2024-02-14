@@ -38,7 +38,7 @@ My ambition is to develop visionary models that provide assistance to individual
 ### Work Experiences
 
 - **[Computer Vision Lab](http://cv.snu.ac.kr), Seoul National University, Research Intern**  _(Jun.2023 - current)_    
-  - research on ronbust image denoising (Advised by Prof. Bohyung Han) 
+  - research on robust image denoising (Advised by Prof. Bohyung Han) 
 - **[Samsung Electronics](https://www.samsung.com/sec/), Samsung Networks, vRAN, S/W R&D Intern** _(Jan.2023 - Feb.2023)_ 
   - vRAN simulation data analysis
   - dashboard system design
