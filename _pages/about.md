@@ -52,7 +52,7 @@ My ambition is to develop visionary models that provide assistance to individual
 ### Awards and Honors
 
 - **Scholarship for excellence**, Seoul National University _(2018 - 2019)_ 
-- **Full Scholarship** [Gwanak Alumni Scholarship Foundation](https://gwanak.snua.or.kr) _(2022 - current)_ 
+- **Full Scholarship**, [Gwanak Alumni Scholarship Foundation](https://gwanak.snua.or.kr) _(2022 - current)_ 
   
 &nbsp;
 
