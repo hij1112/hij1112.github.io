@@ -19,9 +19,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-Hi, I am an undergradutate student in [Seoul National University](https://en.snu.ac.kr/index.html), majoring in [Electrical & Computer Engineering](http://ee.snu.ac.kr/en). I am currently working as a research intern in [Computer Vision Lab](http://cv.snu.ac.kr), under the supervision of [Prof. Bohyung Han](https://cv.snu.ac.kr/index.php/~bhhan/). My research interests is in computer vision tasks, mainly image/video enhancement via deep neural network. I am also deeply interested in building efficient(mobile) real-time vision models. 
+Hi, I am an undergraduate student in [Seoul National University](https://en.snu.ac.kr/index.html), majoring in [Electrical & Computer Engineering](http://ee.snu.ac.kr/en). I am currently working as a research intern in [Computer Vision Lab](http://cv.snu.ac.kr), under the supervision of [Prof. Bohyung Han](https://cv.snu.ac.kr/index.php/~bhhan/). My research interests is in computer vision tasks, mainly image/video enhancement via deep neural network. I am also deeply interested in building efficient(mobile) real-time vision models. 
 
-My ambition is to develop visionary models that provide assistance to individuals in ways that are perceived as magical. If you have any inquiries or wish to connect for professional purposes, please do not hesitate to reach out to me at [hij1112@snu.ac.kr](mailto:hij1112@snu.ac.kr). I welcome all correspondence and look forward to hearing from you. Wishing you a wonderful day!
+My ambition is to develop visionary models that provide assistance to individuals in ways that are perceived as magical. If you have any inquiries or wish to connect for professional purposes, please do not hesitate to reach out to me at [hij1112@snu.ac.kr](mailto:hij1112@snu.ac.kr). I welcome all correspondence and look forward to hear from you. Wishing you a wonderful day!
 
 &nbsp;
 
