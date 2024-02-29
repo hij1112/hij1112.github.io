@@ -15,7 +15,7 @@ profile:
 
 news: false # includes a list of news items
 latest_posts: false # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
@@ -25,6 +25,12 @@ My ambition is to develop visionary models that provide assistance to individual
 
 &nbsp;
 
+### Selected Publications
+- **[Robust Image Denoising through Adversarial Frequency Mixup](https://cv.snu.ac.kr/index.php/2024/02/27/7-papers-got-accepted-to-cvpr-2024/)**
+  - Donghun Ryou, **Inju Ha**, Hyewon Yoo, Dongwan Kim, and Bohyung Han
+  - Proc. Computer Vision and Pattern Recognition **([CVPR](https://cvpr.thecvf.com/Conferences/2024))**, 2024.
+
+&nbsp;
 
 ### Education
 
