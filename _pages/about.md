@@ -34,9 +34,9 @@ My ambition is to develop visionary models that provide assistance to individual
 
 ### Education
 - **[Seoul National University](https://en.snu.ac.kr/index.html)**, Seoul, Korea _(Sep.2024 - present)_
-  - _(M.S.)_ in Electrical & Computer Engineering
+  - _M.S._ in Electrical & Computer Engineering
 - **[Seoul National University](https://en.snu.ac.kr/index.html)**, Seoul, Korea _(Mar.2018 - Aug.2024)_
-  - _(B.S.)_ in Electrical & Computer Engineering **(Summa Cum Laude)**
+  - _B.S._ in Electrical & Computer Engineering **(Summa Cum Laude)**
 - **[Korean Minjok Leadership Academy](http://english.minjok.hs.kr/contents/main.php)**, Gangwon, Korea _(Mar.2015 - Feb.2018)_
   - natural science field (domestic)
 
