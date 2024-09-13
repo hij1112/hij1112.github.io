@@ -19,7 +19,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-Hi, I am a 1st year MSc student in [Seoul National University](https://en.snu.ac.kr/index.html), majoring in [Electrical & Computer Engineering](http://ee.snu.ac.kr/en). I am currently working in [Computer Vision Lab](http://cv.snu.ac.kr), under the supervision of [Prof. Bohyung Han](https://cv.snu.ac.kr/index.php/~bhhan/). My research interests is in computer vision tasks, mainly image/video enhancement via deep neural network. I am also deeply interested in building efficient(mobile) real-time vision models. 
+Hi, I am a 1st year MSc student in [Seoul National University](https://en.snu.ac.kr/index.html), majoring in [Electrical & Computer Engineering](http://ee.snu.ac.kr/en). I am currently working in [Computer Vision Lab](http://cv.snu.ac.kr), under the supervision of [Prof. Bohyung Han](https://cv.snu.ac.kr/index.php/~bhhan/). My research interests is in computer vision tasks, mainly image/video enhancement via neural network. I am currently also interested in building multi-modal deep vision models. 
 
 My ambition is to develop visionary models that provide assistance to individuals in ways that are perceived as magical. If you have any inquiries or wish to connect for professional purposes, please do not hesitate to reach out to me at [hij1112@snu.ac.kr](mailto:hij1112@snu.ac.kr). I welcome all correspondence and look forward to hear from you. Wishing you a wonderful day!
 
@@ -27,15 +27,16 @@ My ambition is to develop visionary models that provide assistance to individual
 
 ### Selected Publications
 - **[Robust Image Denoising through Adversarial Frequency Mixup](https://openaccess.thecvf.com/content/CVPR2024/papers/Ryou_Robust_Image_Denoising_through_Adversarial_Frequency_Mixup_CVPR_2024_paper.pdf)**
-  - Donghun Ryou, **Inju Ha**, Hyewon Yoo, Dongwan Kim, and Bohyung Han
+  - [Donghun Ryou](https://doinghun.com), **Inju Ha**, Hyewon Yoo, [Dongwan Kim](https://www.numpee.com), and [Bohyung Han](https://cv.snu.ac.kr/index.php/~bhhan/)
   - Proc. Computer Vision and Pattern Recognition **([CVPR](https://cvpr.thecvf.com/Conferences/2024))**, 2024.
 
 &nbsp;
 
 ### Education
-
-- **[Seoul National University](https://en.snu.ac.kr/index.html)**, Seoul, Korea _(Mar.2018 - present)_
-  - Electrical & Computer Engineering *(Summa Cum Laude)*
+- **[Seoul National University](https://en.snu.ac.kr/index.html)**, Seoul, Korea _(Sep.2024 - present)_
+  - M.S. in Electrical & Computer Engineering
+- **[Seoul National University](https://en.snu.ac.kr/index.html)**, Seoul, Korea _(Mar.2018 - Aug.2024)_
+  - B.S. in Electrical & Computer Engineering *(Summa Cum Laude)*
 - **[Korean Minjok Leadership Academy](http://english.minjok.hs.kr/contents/main.php)**, Gangwon, Korea _(Mar.2015 - Feb.2018)_
   - natural science field(domestic)
 
@@ -43,8 +44,8 @@ My ambition is to develop visionary models that provide assistance to individual
 
 ### Work Experiences
 
-- **[Computer Vision Lab](http://cv.snu.ac.kr), Seoul National University, Research Intern**  _(Jun.2023 - current)_    
-  - research on robust image denoising (Advised by Prof. Bohyung Han) 
+- **[Computer Vision Lab](http://cv.snu.ac.kr), Seoul National University, Research Intern**  _(Jun.2023 - Aug.2024)_    
+  - research on robust image denoising (Advised by [Prof. Bohyung Han](https://cv.snu.ac.kr/index.php/~bhhan/))
 - **[Samsung Electronics](https://www.samsung.com/sec/), Samsung Networks, vRAN, S/W R&D Intern** _(Jan.2023 - Feb.2023)_ 
   - vRAN simulation data analysis
   - dashboard system design
