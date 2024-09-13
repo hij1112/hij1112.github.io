@@ -19,7 +19,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-Hi, I am a 1st year MSc student in [Seoul National University](https://en.snu.ac.kr/index.html), majoring in [Electrical & Computer Engineering](http://ee.snu.ac.kr/en). I am currently working in [Computer Vision Lab](http://cv.snu.ac.kr), under the supervision of [Prof. Bohyung Han](https://cv.snu.ac.kr/index.php/~bhhan/). My research interests is in computer vision tasks, mainly image/video enhancement via neural network. I am currently also interested in building multi-modal deep vision models. 
+Hi, I am a 1st year MSc student in [Seoul National University](https://en.snu.ac.kr/index.html), majoring in [Electrical & Computer Engineering](http://ee.snu.ac.kr/en). I am currently working in [Computer Vision Lab](http://cv.snu.ac.kr), under the supervision of [Prof. Bohyung Han](https://cv.snu.ac.kr/index.php/~bhhan/). My research interests is in computer vision tasks, mainly image/video enhancement via neural network. urrently also interested in building multi-modal deep vision models. 
 
 My ambition is to develop visionary models that provide assistance to individuals in ways that are perceived as magical. If you have any inquiries or wish to connect for professional purposes, please do not hesitate to reach out to me at [hij1112@snu.ac.kr](mailto:hij1112@snu.ac.kr). I welcome all correspondence and look forward to hear from you. Wishing you a wonderful day!
 
@@ -36,9 +36,9 @@ My ambition is to develop visionary models that provide assistance to individual
 - **[Seoul National University](https://en.snu.ac.kr/index.html)**, Seoul, Korea _(Sep.2024 - present)_
   - M.S. in Electrical & Computer Engineering
 - **[Seoul National University](https://en.snu.ac.kr/index.html)**, Seoul, Korea _(Mar.2018 - Aug.2024)_
-  - B.S. in Electrical & Computer Engineering *(Summa Cum Laude)*
+  - B.S. in Electrical & Computer Engineering **(Summa Cum Laude)**
 - **[Korean Minjok Leadership Academy](http://english.minjok.hs.kr/contents/main.php)**, Gangwon, Korea _(Mar.2015 - Feb.2018)_
-  - natural science field(domestic)
+  - natural science field (domestic)
 
 &nbsp;
 
